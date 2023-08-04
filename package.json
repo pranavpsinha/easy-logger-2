@@ -1,0 +1,28 @@
+{
+  "name": "easy-logger-2",
+  "email": "pranavpsinha@duck.com",
+  "version": "1.0.2",
+  "description": "A wrapper on top of winston with log rotation capabilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger",
+    "winston",
+    "log-rotate",
+    "easy-logger"
+  ],
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pranavpsinha/easy-logger-2.git"
+  },
+  "homepage": "https://github.com/pranavpsinha/easy-logger-2",  
+  "author": "pranavpsinha",
+  "license": "ISC"
+}
