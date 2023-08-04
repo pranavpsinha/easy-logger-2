@@ -1,7 +1,7 @@
 {
   "name": "easy-logger-2",
   "email": "pranavpsinha@duck.com",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A wrapper on top of winston with log rotation capabilities",
   "main": "index.js",
   "scripts": {
